@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="textview">Нажатий на кнопку: 0</string>
+    <string name="button">Нажми на меня!</string>
+    <string name="buttonPressed">Держи меня!</string>
+    <string name="textRestart">[Обнулить счётчик]</string>
+</resources>
