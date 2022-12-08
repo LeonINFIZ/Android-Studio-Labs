@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="count_name">Счётчик:</string>
+    <string name="count_name2">Счётчик: ?</string>
+    <string name="buttonNext">Открыть следующую активность</string>
+    <string name="buttonPlusOne">Увеличить счётчик +1</string>
+    <string name="buttonThird">Отобразить данные</string>
+
+
+</resources>
